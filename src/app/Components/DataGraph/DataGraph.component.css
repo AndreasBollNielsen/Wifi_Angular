@@ -1,0 +1,12 @@
+
+.flex {
+    display: flex;
+}
+
+.flex-item {
+    flex-basis: 75%;
+}
+
+tr.line-2 {
+    color: red;
+}
